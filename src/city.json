@@ -1,0 +1,44 @@
+{
+  "list_city": [
+    {
+      "city": "Houffalize",
+      "favorite": false
+    },
+    {
+      "city": "Malines",
+      "favorite": false
+    },
+    {
+      "city": "Anvers",
+      "favorite": false
+    },
+    {
+      "city": "Namur",
+      "favorite": false
+    },
+    {
+      "city": "Brussels",
+      "favorite": true
+    },
+    {
+      "city": "Arlon",
+      "favorite": false
+    },
+    {
+      "city": "Liege",
+      "favorite": false
+    },
+    {
+      "city": "Malmedy",
+      "favorite": false
+    },
+      {
+      "city": "Oostende",
+      "favorite": false
+    },
+    {
+      "city": "Bruges",
+      "favorite": false
+    }
+  ]
+}
